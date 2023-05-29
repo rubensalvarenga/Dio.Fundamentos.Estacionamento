@@ -1,0 +1,15 @@
+C:\Projetos\Dio\Fundamentos\src\Fundamentos.Estacionamento\bin\Debug\net6.0\Fundamentos.Estacionamento.exe
+C:\Projetos\Dio\Fundamentos\src\Fundamentos.Estacionamento\bin\Debug\net6.0\Fundamentos.Estacionamento.deps.json
+C:\Projetos\Dio\Fundamentos\src\Fundamentos.Estacionamento\bin\Debug\net6.0\Fundamentos.Estacionamento.runtimeconfig.json
+C:\Projetos\Dio\Fundamentos\src\Fundamentos.Estacionamento\bin\Debug\net6.0\Fundamentos.Estacionamento.dll
+C:\Projetos\Dio\Fundamentos\src\Fundamentos.Estacionamento\bin\Debug\net6.0\Fundamentos.Estacionamento.pdb
+C:\Projetos\Dio\Fundamentos\src\Fundamentos.Estacionamento\obj\Debug\net6.0\Fundamentos.Estacionamento.csproj.AssemblyReference.cache
+C:\Projetos\Dio\Fundamentos\src\Fundamentos.Estacionamento\obj\Debug\net6.0\Fundamentos.Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Dio\Fundamentos\src\Fundamentos.Estacionamento\obj\Debug\net6.0\Fundamentos.Estacionamento.AssemblyInfoInputs.cache
+C:\Projetos\Dio\Fundamentos\src\Fundamentos.Estacionamento\obj\Debug\net6.0\Fundamentos.Estacionamento.AssemblyInfo.cs
+C:\Projetos\Dio\Fundamentos\src\Fundamentos.Estacionamento\obj\Debug\net6.0\Fundamentos.Estacionamento.csproj.CoreCompileInputs.cache
+C:\Projetos\Dio\Fundamentos\src\Fundamentos.Estacionamento\obj\Debug\net6.0\Fundamentos.Estacionamento.dll
+C:\Projetos\Dio\Fundamentos\src\Fundamentos.Estacionamento\obj\Debug\net6.0\refint\Fundamentos.Estacionamento.dll
+C:\Projetos\Dio\Fundamentos\src\Fundamentos.Estacionamento\obj\Debug\net6.0\Fundamentos.Estacionamento.pdb
+C:\Projetos\Dio\Fundamentos\src\Fundamentos.Estacionamento\obj\Debug\net6.0\Fundamentos.Estacionamento.genruntimeconfig.cache
+C:\Projetos\Dio\Fundamentos\src\Fundamentos.Estacionamento\obj\Debug\net6.0\ref\Fundamentos.Estacionamento.dll
